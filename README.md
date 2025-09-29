@@ -8,3 +8,7 @@ Team members:
 - JF Koh
 
 Project title: **Small LM + RAG**
+
+## Documentation
+
+Sprint 1 [RAG System Implementation Plan](RAG_System_Implementation_Plan.md) by Shyamal Narang
