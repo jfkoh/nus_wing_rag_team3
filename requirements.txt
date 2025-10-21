@@ -1,0 +1,14 @@
+# PDF Processing
+PyMuPDF
+PyPDF2
+
+# Vector Database
+chromadb
+
+# Vector Embeddings & Deep Learning
+sentence-transformers
+torch
+bitsandbytes
+
+# Numerical Operations
+numpy
